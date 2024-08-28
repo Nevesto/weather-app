@@ -97,3 +97,13 @@ input:valid {
     width: 100%;
     margin-bottom: 1rem;
 }
+
+@media screen and (max-width: 375px) {
+    .main .search-box {
+        width: 90%;
+    }
+    .main .weather-box {
+        width: 85%;
+    }
+    
+}
